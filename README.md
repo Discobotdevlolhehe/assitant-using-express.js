@@ -12,13 +12,14 @@
 >    // what ever features you want to add
 >    const finalText = 'what ever you want',
 >    speak.text = finalText
->}``
---
+>}
+```
+#
 > change your_command to your command name, 'what ever you want' to what your assistant will respond
---
+#
 # Contributing
 ## you can create a pull request. Give me some ideas pls
 
--- also please make your changes if you know what you are doing. You changed something and you got an error, Im not helping.
+# also please make your changes if you know what you are doing. You changed something and you got an error, Im not helping.
 
 
