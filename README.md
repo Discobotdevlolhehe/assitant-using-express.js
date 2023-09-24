@@ -13,7 +13,7 @@
 >    const finalText = 'what ever you want',
 >    speak.text = finalText
 >}
-```
+``
 #
 > change your_command to your command name, 'what ever you want' to what your assistant will respond
 #
