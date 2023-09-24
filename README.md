@@ -7,13 +7,13 @@
 > you can go to `./ai/tong.js` and go to line 213 and change to any youtube playlist you like (PS: Im trying to get it working using a json file)
 
 # Adding commands
-> ```js
+> `js
 > else if(message.includes('your_command')) {
 >    // what ever features you want to add
 >    const finalText = 'what ever you want',
 >    speak.text = finalText
->}
-``
+>}`
+
 #
 > change your_command to your command name, 'what ever you want' to what your assistant will respond
 #
